@@ -1,0 +1,14 @@
+{
+    "name": "os1",
+    "description": "Object System One",
+    "copyright": "Copyright © 2016-2017, JavaCommons",
+    "license": "Boost",
+    "authors": [ "JavaCommons" ],
+    "targetType": "library",
+    "dependencies": {
+        "pegged": "~>0.4.2",
+        "pegged-cutter": "~>1.0.0"
+    },
+    "importPaths": ["."],
+    "sourcePaths": ["."]
+}
